@@ -48,18 +48,15 @@
 看看垃圾訊息和正常訊息最常用的詞彙長什麼樣子！
 
 **垃圾訊息文字雲 (Spam Word Cloud):**
-*(這裡可以放上您執行後產生的垃圾訊息文字雲圖片)*
-![Spam Word Cloud](https://i.imgur.com/your_spam_wordcloud_image.png)
+![Spam Word Cloud](https://github.com/vvchung/Universal_Spam_Classifier/blob/main/spam_wordcloud.png)
 
 **正常訊息文字雲 (Ham Word Cloud):**
-*(這裡可以放上您執行後產生的正常訊息文字雲圖片)*
-![Ham Word Cloud](https://i.imgur.com/your_ham_wordcloud_image.png)
+![Ham Word Cloud](https://github.com/vvchung/Universal_Spam_Classifier/blob/main/ham_wordcloud.png)
 
 ### 混淆矩陣 (Confusion Matrix) 📊
 
 我們的模型表現如何？混淆矩陣一目了然！
-*(這裡可以放上您執行後產生的混淆矩陣圖片)*
-![Confusion Matrix](https://i.imgur.com/your_confusion_matrix_image.png)
+![Confusion Matrix](https://github.com/vvchung/Universal_Spam_Classifier/blob/main/confusion_matrix.png)
 
 ---
 
